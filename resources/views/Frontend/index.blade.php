@@ -75,7 +75,7 @@
 
 <div class="container mt-10 col-12 font-monospace fw-normal text-secondary shadow p-3 mb-5 bg-white rounded">
   <div class="container col-12">
-      <h1 class="./Images/Wallpaper.jpg" style="margin-top: 50px;margin-right: 50px;">Our Brands</h1>
+      <h1 class="./Images/Wallpaper.jpg" style="margin-top: 50px; margin-right: 50px;">Our Brands</h1>
   </div>
   <section>
     <div class="container col-12">
