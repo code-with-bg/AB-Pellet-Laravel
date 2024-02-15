@@ -12,7 +12,7 @@
         "laravel/sanctum": "^3.3",
         "laravel/tinker": "^2.8",
         "laravel/ui": "*",
-        "unisharp/laravel-filemanager": "^2.7"
+        "unisharp/laravel-filemanager": "dev-master"
     },
     "require-dev": {
         "fakerphp/faker": "^1.9.1",

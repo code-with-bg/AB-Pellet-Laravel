@@ -4,9 +4,7 @@
     <div class="container-fluid">
         <h1 class="h3 mla mb-2 text-gray-800">Blog/<span class="h5 mb-2 text-gray-600">All Blog</span></h1>
 
-
         <div class="container">
-
                 <div class="align-items-center">
                     <div class="tm-bg-primary-dark tm-block tm-block-h-auto">
                         <div class="row">
@@ -76,9 +74,6 @@
                                             </select>
                                         </div>
                                     </div>
-
-
-
                                     <div class="form-group mb-3">
                                         <label for="">Status <span class="text-danger">*</span></label>
                                         <select name="status" class="custom-select tm-select-accounts" id="category">
@@ -102,9 +97,6 @@
                         </div>
                     </div>
                 </div>
-
-
-
             </div>
         </div>
     </div>

@@ -93,6 +93,7 @@ Route::middleware(['auth'])->group(function () {
     Route::get('admin/setting',[\App\Http\Controllers\Backend\SettingController::class,'index'])->name('setting.index');
     Route::put('admin/setting/Update',[\App\Http\Controllers\Backend\SettingController::class,'settingsUpdate'])->name('setting.update');
 
+    // Upload Images 
     Route::group(['prefix' => 'laravel-filemanager', 'middleware' => ['web', 'auth']], function () {
         \UniSharp\LaravelFilemanager\Lfm::routes();
     });
